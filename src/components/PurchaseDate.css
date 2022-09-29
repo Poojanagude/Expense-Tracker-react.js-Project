@@ -1,0 +1,23 @@
+.Purchase-date{
+    display: flex;
+    flex-direction: column;
+    width: 88px;
+    height: 88px;
+    border: 1px solid #ececec;
+    background-color: #2a2a2a;
+    color: white;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+}
+.Purchase-date_month{
+    font-size: 12px;
+    font-weight: bold;
+}
+.Purchase-date_year{
+    font-size: 12px;
+}
+.Purchase-date_day{
+    font-size: 24px;
+    font-weight: bold;
+}
